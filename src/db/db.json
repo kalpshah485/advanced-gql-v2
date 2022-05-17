@@ -8,8 +8,54 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "member@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1652698007017,
+      "id": "ljjMNa9EXid6JLCZJ9H8j"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "new post check 1",
+      "author": "Z2hlvDmLOSRZGebC_Z_aA",
+      "createdAt": 1652764859141,
+      "id": "MzxN7dxxpOHAivGtOFz_b"
+    },
+    {
+      "message": "new post check 2",
+      "author": "Z2hlvDmLOSRZGebC_Z_aA",
+      "createdAt": 1652764871533,
+      "id": "u5gaqtDcbPv5TpDzTf5Zp"
+    },
+    {
+      "message": "new post check 3",
+      "author": "Z2hlvDmLOSRZGebC_Z_aA",
+      "createdAt": 1652764877551,
+      "id": "hyVa5jQn3nZ_KL0zsA8o2"
+    },
+    {
+      "message": "new post check 4",
+      "author": "Z2hlvDmLOSRZGebC_Z_aA",
+      "createdAt": 1652764881369,
+      "id": "B4dYbBbVJ20jRFS8eq3Uo"
+    },
+    {
+      "message": "new post check 5",
+      "author": "Z2hlvDmLOSRZGebC_Z_aA",
+      "createdAt": 1652764884004,
+      "id": "EmDFM0hp1eYfkzD60ea7K"
+    },
+    {
+      "message": "new post check 6",
+      "author": "Z2hlvDmLOSRZGebC_Z_aA",
+      "createdAt": 1652764952723,
+      "id": "-wZRBcuBesVbYhImq1Cp3"
+    }
+  ],
   "settings": []
 }
